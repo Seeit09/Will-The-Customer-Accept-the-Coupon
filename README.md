@@ -7,9 +7,9 @@ For all coupons, the overall acceptance rate is 57%. By coupon type, Restaurant(
 
 ![](./images/CategoryvAcceptance.png)
 
-Temperature Distribution:
+Temperature Distribution
 
-![](./images/tempdist.png)
+![](./images/temphist.png)
 
 
 ## Bar Coupon Analysis
@@ -53,9 +53,13 @@ From this brief exploratory analysis, I decided to focus in on the 5 groups, Tim
 
 
 ![](./images/timevacceptance.png)
+
 ![](./images/agevacceptance.png)
+
 ![](./images/educationvacceptance.png)
+
 ![](./images/occupationvacceptance.png)
+
 ![](./images/restaurantevacceptance.png)
 
 From these results there are a few things that can be hypothesized about people who accept Coffeehouse Coupons. They are more likely to accept it at 10 A.M., perhaps due to taking a break of some sort at this time. They are also far more likely to be younger than 21, which could imply they drink it during school to gain energy. This is further emphasized by the fact that students are also more likely to accept the coupon. Another thing that can be said about them is the fact that they probably have a large disposable income, due to the fact that people who visit the expensive restaurants often are more likely to accept the coupon.
